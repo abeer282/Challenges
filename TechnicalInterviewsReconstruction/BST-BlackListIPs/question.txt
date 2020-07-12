@@ -1,0 +1,8 @@
+BST
+
+Binary Search Tree of black list IPs. 
+The purpose of our function is to determine either we find the source or the destination of the message in the black list(the BST).
+For convenience, we are going to represent the black list IPs as numbers, and the message contains only two numbers that represents the source and destination.
+
+Input: root, message(source, destination)
+Output: Valid/ Invalid (enum)
