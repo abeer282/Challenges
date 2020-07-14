@@ -1,0 +1,3 @@
+Write a function that check if a string of parentheses/ mathmatical expression is balanced.
+Input: mathematical expression (string)
+Output: true if parentheses(of all types-(){}[]) are ordered, else return false; 
